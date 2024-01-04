@@ -5,7 +5,7 @@
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
-	<packageId>grey.grainsandbrewingpatch<packageId>
+	<packageId>grey.grainsandbrewingpatch</packageId>
 	<description>A revision for Grains and Brewing (1.4+) based on real research about various grains.</description>
 	<modDependencies>
 		<li>
