@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="GAB_Sorghum"]/plant</xpath>
+		<value>
+			<harvestYield>18</harvestYield>
+			<growDays>10.7</growDays>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="GAB_Millet"]/plant</xpath>
+		<value>
+			<harvestYield>15</harvestYield>
+			<growDays>8.4</growDays>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="GAB_Rye"]/plant</xpath>
+		<value>
+			<harvestYield>16</harvestYield>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="GAB_Barley"]/plant</xpath>
+		<value>
+			<growDays>7.9</growDays>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="GAB_Amaranth"]/plant</xpath>
+		<value>
+			<harvestYield>10</harvestYield>
+			<growDays>5</growDays>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName="GAB_Jeru"]/plant</xpath>
+		<value>
+			<harvestYield>17</harvestYield>
+			<growDays>9.5</growDays>
+		</value>
+	</Operation>
+</Patch>
