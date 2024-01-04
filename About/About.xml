@@ -15,7 +15,7 @@
 		</li>
 		<li>
 			<packageId>tidal.grainsandbrewing</packageId>
-			<displayName>Grains and Brewing (1.4+)</name>
+			<displayName>Grains and Brewing (1.4+)</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2897396824</steamWorkshopUrl>
 		</li>
 	</modDependencies>
